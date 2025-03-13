@@ -3,6 +3,7 @@
 A reinforcement learning approach for HVAC systems with safety constraints and occupancy awareness.
 
 ## Project Structure
+'''
 HVAC-SAFETY-BARRIER-RL/
 ├── NOTEBOOKS/
 │ ├── Occupancy_aware_Agent.ipynb
@@ -31,6 +32,7 @@ HVAC-SAFETY-BARRIER-RL/
 ├── src/
 ├── readme.md
 └── requirement.txt
+'''
 ## Overview
 
 This repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints. The project provides a comprehensive framework for developing and evaluating advanced control strategies for building management systems.
