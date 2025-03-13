@@ -5,33 +5,32 @@ A reinforcement learning approach for HVAC systems with safety constraints and o
 ## Project Structure
 HVAC-SAFETY-BARRIER-RL/
 ├── NOTEBOOKS/
-│ ├── Occupancy_aware_Agent.ipynb
-│ └── PRE_TRAINED_AND_STANDARD(...)
+│   ├── Occupancy_aware_Agent.ipynb
+│   └── PRE_TRAINED_AND_STANDARD(...)
 ├── OCCUPANCY_AWARE_AGENT/
-│ ├── logs/
-│ ├── scripts/
-│ │ ├── evaluate.py
-│ │ ├── train.py
-│ │ └── visualize.py
-│ ├── src/
-│ ├── readme.md
-│ └── requirement.txt
+│   ├── logs/
+│   ├── scripts/
+│   │   ├── evaluate.py
+│   │   ├── train.py
+│   │   └── visualize.py
+│   ├── src/
+│   ├── readme.md
+│   └── requirement.txt
 ├── PRE_TRAINED_AGENT/
-│ ├── logs/
-│ ├── scripts/
-│ │ ├── evaluate.py
-│ │ ├── train.py
-│ │ └── visualize.py
-│ ├── src/
-│ ├── readme.md
-│ └── requirement.txt
+│   ├── logs/
+│   ├── scripts/
+│   │   ├── evaluate.py
+│   │   ├── train.py
+│   │   └── visualize.py
+│   ├── src/
+│   ├── readme.md
+│   └── requirement.txt
 └── Standard Agent/
-├── logs/
-├── scripts/
-├── src/
-├── readme.md
-└── requirement.txt
-
+    ├── logs/
+    ├── scripts/
+    ├── src/
+    ├── readme.md
+    └── requirement.txt
 ## Overview
 
 This repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints. The project provides a comprehensive framework for developing and evaluating advanced control strategies for building management systems.
