@@ -65,7 +65,7 @@ HVAC-SAFETY-BARRIER-RL
 
 └── requirement.txt
 
-</pre
+</pre>
 ## Overview
 
 This repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints. The project provides a comprehensive framework for developing and evaluating advanced control strategies for building management systems.
