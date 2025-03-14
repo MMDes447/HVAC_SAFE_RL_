@@ -1,10 +1,15 @@
 # HVAC Safety Barrier RL
-This repositoty contains the code for the experiments in the paper "Safe Reinforcement Learning for Buildings:
-Minimizing Energy Use While Maximizing Occupant Comfort". The agent is trained to find the safe and optimal policy for HVAC system. BOPTEST This [website][an_awesome_website_link] is awesome.
 
-You will never use anything else than this [website][an_awesome_website_link].
+This repository contains code for the paper "Safe Reinforcement Learning for Buildings: Minimizing Energy Use While Maximizing Occupant Comfort." It implements reinforcement learning with neural barrier certificates for HVAC control systems using BOPTEST as the training environment. The experiments examine:
 
-[an_awesome_website_link]: https://stackoverflow.com 
+- Safe HVAC control policies that balance energy efficiency and comfort
+- Effects of barrier certificate pre-training versus no pre-training
+- Performance with random versus non-random episode generation
+- Impact of different episode lengths on training outcomes
+
+
+
+[an_awesome_website_link]: https://ibpsa.github.io/project1-boptest/ 
 
 
 ## Project Structure
@@ -71,9 +76,6 @@ HVAC-SAFETY-BARRIER-RL
 └── requirement.txt
 
 </pre>
-## Overview
-
-This repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints.
 ## Agents
 
 ### Occupancy-Aware Agent
