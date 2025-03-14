@@ -84,8 +84,8 @@ joint learning of agent and barrie without pre-training
 ## Notebooks
 
 The `NOTEBOOKS/` directory contains Jupyter notebooks for interactive experimentation:
-- `Occupancy_aware_Agent.ipynb`: Demonstrates the occupancy-aware agent's capabilities
-- `PRE_TRAINED_AND_STANDARD(...)`: Compares pre-trained and standard agents
+- `Occupancy_aware_Agent.ipynb`
+- `PRE_TRAINED_AND_STANDARD.ipynb`
 
 ## To run the experiments 
 
