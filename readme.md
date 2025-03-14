@@ -1,6 +1,10 @@
 # HVAC Safety Barrier RL
 This repositoty contains the code for the experiments in the paper "Safe Reinforcement Learning for Buildings:
-Minimizing Energy Use While Maximizing Occupant Comfort".  JAFAR\
+Minimizing Energy Use While Maximizing Occupant Comfort". The agent is trained to find the safe and optimal policy for HVAC system. BOPTEST This [website][an_awesome_website_link] is awesome.
+
+You will never use anything else than this [website][an_awesome_website_link].
+
+[an_awesome_website_link]: https://stackoverflow.com 
 
 
 ## Project Structure
