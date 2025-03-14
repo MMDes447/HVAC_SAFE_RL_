@@ -18,63 +18,34 @@ This repository contains code for the paper "Safe Reinforcement Learning for Bui
 HVAC-SAFETY-BARRIER-RL
 
 ├── NOTEBOOKS
-
 │ ├── Occupancy_aware_Agent.ipynb
-
 │ └── PRE_TRAINED_AND_STANDARD(...)
-
 ├── OCCUPANCY_AWARE_AGENT
-
 │ ├── logs
-
 │ ├── scripts
-
 │ │ ├── evaluate.py
-
 │ │ ├── train.py
-
 │ │ └── visualize.py
-
 │ ├── src
-
 │ ├── readme.md
-
 │ └── requirement.txt
-
 ├── PRE_TRAINED_AGENT
-
 │ ├── logs
-
 │ ├── scripts
-
 │ │ ├── evaluate.py
-
 │ │ ├── train.py
-
 │ │ └── visualize.py
-
 │ ├── src
-
 │ ├── readme.md
-
 │ └── requirement.txt
-
 ├── Standard Agent
-
 │ ├── logs
-
 │ ├── scripts
-
 │ ├── src
-
 │ ├── readme.md
-
 │ └── requirement.txt
-
 ├── readme.md
-
 └── requirement.txt
-
 </pre>
 ## Agents
 
