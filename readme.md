@@ -86,7 +86,10 @@ joint learning of agent and barrie without pre-training
 The `NOTEBOOKS/` directory contains Jupyter notebooks for interactive experimentation:
 - `Occupancy_aware_Agent.ipynb`
 - `PRE_TRAINED_AND_STANDARD(1).ipynb`
-
+## Install BOPTESTGYM
+```
+git clone -b boptest-gym-service https://github.com/ibpsa/project1-boptest-gym.git boptestGymService
+```
 ## To run the experiments 
 
 ```bash
