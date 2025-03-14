@@ -1,7 +1,6 @@
 # HVAC Safety Barrier RL
 This repositoty contains the code for the experiments in the paper "Safe Reinforcement Learning for Buildings:
-Minimizing Energy Use While Maximizing" 
-Occupant Comfort
+Minimizing Energy Use While Maximizing Occupant Comfort".  
 
 ## Project Structure
 <pre>
@@ -69,7 +68,7 @@ HVAC-SAFETY-BARRIER-RL
 </pre>
 ## Overview
 
-TThis repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints.
+This repository implements three different reinforcement learning agents for HVAC system control with a focus on energy efficiency, occupant comfort, and safety constraints.
 ## Agents
 
 ### Occupancy-Aware Agent
