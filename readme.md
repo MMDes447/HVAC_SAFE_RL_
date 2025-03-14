@@ -1,6 +1,6 @@
 # HVAC Safety Barrier RL
+This repo contains the code
 
-A reinforcement learning approach for HVAC systems with safety constraints and occupancy awareness.
 
 ## Project Structure
 <pre>
