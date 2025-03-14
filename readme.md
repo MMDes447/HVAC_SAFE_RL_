@@ -1,6 +1,7 @@
 # HVAC Safety Barrier RL
-This repo contains the code
-
+This repositoty contains the code for the experiments in the paper "Safe Reinforcement Learning for Buildings:
+Minimizing Energy Use While Maximizing" 
+Occupant Comfort
 
 ## Project Structure
 <pre>
