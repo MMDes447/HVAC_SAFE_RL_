@@ -90,8 +90,7 @@ The `NOTEBOOKS/` directory contains Jupyter notebooks for interactive experiment
 ## To run the experiments 
 
 ```bash
-# Clone the repository
-python {Agent_directory}/scripts/train.py --episodes {specify the number} --length {specify the number} --step_period {specify the number} --barrier_only {specify the number}
+python {Agent_directory}/scripts/train.py --episodes {specify the number} --length {specify the number} --step_period {specify the number} --barrier_only {specify the number}# Clone the repository
 To disable the random episode generation
 # To disable random episodes
 python train.py --random False
