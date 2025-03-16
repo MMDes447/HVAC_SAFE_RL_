@@ -27,8 +27,10 @@ HVAC-SAFETY-BARRIER-RL
 │ │ ├── train.py
 │ │ └── visualize.py
 │ ├── src
-│ ├── readme.md
-│ └── requirement.txt
+│ │ ├── agent.py
+│ │ ├── environment.py
+│ │ ├── networks.py
+│ │ └── memory.py
 ├── PRE_TRAINED_AGENT
 │ ├── logs
 │ ├── scripts
@@ -36,16 +38,23 @@ HVAC-SAFETY-BARRIER-RL
 │ │ ├── train.py
 │ │ └── visualize.py
 │ ├── src
-│ ├── readme.md
-│ └── requirement.txt
+│ │ ├── agent.py
+│ │ ├── environment.py
+│ │ ├── networks.py
+│ │ └── memory.py
 ├── Standard Agent
 │ ├── logs
 │ ├── scripts
+│ │ ├── evaluate.py
+│ │ ├── train.py
+│ │ └── visualize.py
 │ ├── src
-│ ├── readme.md
-│ └── requirement.txt
+│ │ ├── agent.py
+│ │ ├── environment.py
+│ │ ├── networks.py
+│ │ └── memory.py
 ├── readme.md
-└── requirement.txt
+└── requirements.txt
 </pre>
 ## Agents
 
